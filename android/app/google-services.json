@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771290091884",
+    "project_id": "background-flutter-5acdc",
+    "storage_bucket": "background-flutter-5acdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771290091884:android:44c883c65f601da3cee349",
+        "android_client_info": {
+          "package_name": "com.example.ablecred"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4BeARIeo6ntHZzg5k3zSP8KdHwI-KO50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
